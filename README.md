@@ -9,7 +9,7 @@ To start a new game, enter Yes when prompted. Then enter a board size, and then 
 
 Rules 
 
-The rules of Minesweeper can be found here.
+The rules of Minesweeper can be found https://en.wikipedia.org/wiki/Minesweeper_(video_game).
 
 Input 
 
