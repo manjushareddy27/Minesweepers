@@ -1,6 +1,6 @@
 # Minesweepers
 
-This is a game of Minesweeper built in Ruby. It is played in the terminal. To play, run the command /bin/minesweeper.rb. 
+This is a game of Minesweeper built in Ruby. It is played in the terminal. To play, run the command ./bin/minesweeper.rb. 
 
 
 Setup 
