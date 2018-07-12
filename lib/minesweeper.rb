@@ -11,7 +11,7 @@ class Minesweeper
 	attr_reader   :parser, :cmd_mgr
 
 	def initialize
-		# display_winners
+
 		@input = InputData.new
 		Utils.clear_screen
 		if @input.new_game == Utils::YES
